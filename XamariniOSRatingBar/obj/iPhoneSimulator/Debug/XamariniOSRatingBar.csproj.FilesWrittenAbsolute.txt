@@ -1,0 +1,14 @@
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/star-icon-28.png
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/star-xx2.png
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/xamarin-logo.png
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/bin/iPhoneSimulator/Debug/XamariniOSRatingBar.exe.mdb
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/bin/iPhoneSimulator/Debug/XamariniOSRatingBar.exe
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/XamariniOSRatingBar.exe
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/XamariniOSRatingBar.exe.mdb
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/yellow-star.png
+/Users/DELPIN/Projects/XamariniOSRatingBar/XamariniOSRatingBar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/gray-star.png
