@@ -21,7 +21,6 @@ namespace XamariniOSRatingBar
 			btn3.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn4.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn5.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
-
 			lblRating.Text = "Your Rating:0/5";
 
 		}
@@ -33,8 +32,6 @@ namespace XamariniOSRatingBar
 			btn3.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
 			btn4.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
 			btn5.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
-
-
 			lblRating.Text = "Your Rating:5/5";
 		}
 
@@ -44,10 +41,7 @@ namespace XamariniOSRatingBar
 			btn2.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
 			btn3.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
 			btn4.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
-
-
 			btn5.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
-
 			lblRating.Text = "Your Rating:4/5";
 		}
 
@@ -57,12 +51,8 @@ namespace XamariniOSRatingBar
 			btn1.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
 			btn2.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
 			btn3.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
-
-
-
 			btn4.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn5.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
-
 			lblRating.Text = "Your Rating:3/5";
 		}
 
@@ -70,24 +60,19 @@ namespace XamariniOSRatingBar
 		{
 			btn1.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
 			btn2.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
-
-
 			btn3.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn4.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn5.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
-
 			lblRating.Text = "Your Rating:2/5";
 		}
 
 		partial void UIButton13_TouchUpInside(UIButton sender)
 		{
 			btn1.SetBackgroundImage(UIImage.FromFile("yellow-star.png"), UIControlState.Normal);
-
 			btn2.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn3.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn4.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
 			btn5.SetBackgroundImage(UIImage.FromFile("gray-star.png"), UIControlState.Normal);
-
 			lblRating.Text = "Your Rating:1/5";
 		}
 
